@@ -1,5 +1,8 @@
 # Celebrify Workflow 🚀
 
+
+www.celebrify.xyz
+
 ### **Overview**
 Celebrify is a free event invitation platform designed to simplify the process of creating and managing event invites. The workflow leverages AI for creating personalized invitation text, modern designs, and custom music tracks. It also integrates multilingual support, geolocation for venues, and email reminders, making it a comprehensive solution for events like weddings, birthdays, and corporate gatherings.
 
